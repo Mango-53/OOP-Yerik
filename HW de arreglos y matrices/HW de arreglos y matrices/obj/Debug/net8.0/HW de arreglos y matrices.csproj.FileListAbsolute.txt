@@ -1,0 +1,14 @@
+C:\Users\Mango\Documents\School\OOP\HW de arreglos y matrices\HW de arreglos y matrices\bin\Debug\net8.0\HW de arreglos y matrices.exe
+C:\Users\Mango\Documents\School\OOP\HW de arreglos y matrices\HW de arreglos y matrices\bin\Debug\net8.0\HW de arreglos y matrices.deps.json
+C:\Users\Mango\Documents\School\OOP\HW de arreglos y matrices\HW de arreglos y matrices\bin\Debug\net8.0\HW de arreglos y matrices.runtimeconfig.json
+C:\Users\Mango\Documents\School\OOP\HW de arreglos y matrices\HW de arreglos y matrices\bin\Debug\net8.0\HW de arreglos y matrices.dll
+C:\Users\Mango\Documents\School\OOP\HW de arreglos y matrices\HW de arreglos y matrices\bin\Debug\net8.0\HW de arreglos y matrices.pdb
+C:\Users\Mango\Documents\School\OOP\HW de arreglos y matrices\HW de arreglos y matrices\obj\Debug\net8.0\HW de arreglos y matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mango\Documents\School\OOP\HW de arreglos y matrices\HW de arreglos y matrices\obj\Debug\net8.0\HW de arreglos y matrices.AssemblyInfoInputs.cache
+C:\Users\Mango\Documents\School\OOP\HW de arreglos y matrices\HW de arreglos y matrices\obj\Debug\net8.0\HW de arreglos y matrices.AssemblyInfo.cs
+C:\Users\Mango\Documents\School\OOP\HW de arreglos y matrices\HW de arreglos y matrices\obj\Debug\net8.0\HW de arreglos y matrices.csproj.CoreCompileInputs.cache
+C:\Users\Mango\Documents\School\OOP\HW de arreglos y matrices\HW de arreglos y matrices\obj\Debug\net8.0\HW de arreglos y matrices.dll
+C:\Users\Mango\Documents\School\OOP\HW de arreglos y matrices\HW de arreglos y matrices\obj\Debug\net8.0\refint\HW de arreglos y matrices.dll
+C:\Users\Mango\Documents\School\OOP\HW de arreglos y matrices\HW de arreglos y matrices\obj\Debug\net8.0\HW de arreglos y matrices.pdb
+C:\Users\Mango\Documents\School\OOP\HW de arreglos y matrices\HW de arreglos y matrices\obj\Debug\net8.0\HW de arreglos y matrices.genruntimeconfig.cache
+C:\Users\Mango\Documents\School\OOP\HW de arreglos y matrices\HW de arreglos y matrices\obj\Debug\net8.0\ref\HW de arreglos y matrices.dll
