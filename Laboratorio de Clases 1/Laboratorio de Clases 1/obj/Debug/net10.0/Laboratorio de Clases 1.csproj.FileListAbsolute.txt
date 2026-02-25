@@ -1,0 +1,15 @@
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\bin\Debug\net10.0\Laboratorio de Clases 1.exe
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\bin\Debug\net10.0\Laboratorio de Clases 1.deps.json
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\bin\Debug\net10.0\Laboratorio de Clases 1.runtimeconfig.json
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\bin\Debug\net10.0\Laboratorio de Clases 1.dll
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\bin\Debug\net10.0\Laboratorio de Clases 1.pdb
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\obj\Debug\net10.0\Laboratorio de Clases 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\obj\Debug\net10.0\Laboratorio de Clases 1.AssemblyInfoInputs.cache
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\obj\Debug\net10.0\Laboratorio de Clases 1.AssemblyInfo.cs
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\obj\Debug\net10.0\Laboratorio de Clases 1.csproj.CoreCompileInputs.cache
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\obj\Debug\net10.0\Laboratorio de Clases 1.sourcelink.json
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\obj\Debug\net10.0\Laboratorio de Clases 1.dll
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\obj\Debug\net10.0\refint\Laboratorio de Clases 1.dll
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\obj\Debug\net10.0\Laboratorio de Clases 1.pdb
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\obj\Debug\net10.0\Laboratorio de Clases 1.genruntimeconfig.cache
+C:\Users\187869\Documents\My_Project\Testing\Laboratorio de Clases 1\Laboratorio de Clases 1\obj\Debug\net10.0\ref\Laboratorio de Clases 1.dll
